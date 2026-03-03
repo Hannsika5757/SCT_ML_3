@@ -1,0 +1,1 @@
+This project builds a Dog vs Cat Image Classification system using HOG feature extraction and a Linear SVM model. It loads 10,000 shuffled training images, extracts texture features, trains the classifier, validates accuracy , then predicts all 12,500 test images and generates a submission.csv file for final results.
